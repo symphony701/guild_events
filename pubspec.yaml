@@ -40,6 +40,7 @@ dependencies:
   google_fonts:
   salomon_bottom_bar:
   font_awesome_flutter:
+  readmore:
 
 dev_dependencies:
   flutter_test:

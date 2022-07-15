@@ -23,10 +23,10 @@ class _PopularGuildsViewState extends State<PopularGuildsView> {
         scrollDirection: Axis.horizontal,
         physics: const BouncingScrollPhysics(),
         children: [
-          PopularGuildCard(),
-          PopularGuildCard(),
-          PopularGuildCard(),
-          PopularGuildCard(),
+          PopularGuildCard('a'),
+          PopularGuildCard('b'),
+          PopularGuildCard('c'),
+          PopularGuildCard('d'),
         ],
       ),
     );
